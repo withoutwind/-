@@ -1,0 +1,8 @@
+{
+  "name": "云上香火 (Cloud Incense)",
+  "description": "一款沉浸式手机烧香祈福应用。用户可以选择财神、观音等神仙（或上传照片），定制香火、蜡烛和贡品。支持模拟支付供奉，并通过AI获取神明对愿望的指引反馈。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
